@@ -791,7 +791,7 @@ td.gutter {
 }
 
 @-moz-document url-prefix(){
-  p.blog-post{
+  .blog-post > p{
     font-family: 'CarbonType' !important;
     font-style: italic;
     color: #595959;
