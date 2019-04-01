@@ -794,5 +794,6 @@ td.gutter {
   .blog-post{
     font-family: 'CarbonType' !important;
     font-style: italic;
+    font-color: "#595959";
   } 
 }
