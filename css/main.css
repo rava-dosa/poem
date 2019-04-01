@@ -789,3 +789,10 @@ td.gutter {
 .next{
   font-family: 'CarbonType' !important;
 }
+
+@-moz-document url-prefix(){
+  .blog-post{
+    font-family: 'CarbonType' !important;
+    font-style: italic;
+  } 
+}
