@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dreams and Vulnerability
-subtitle: 
+subtitle: You always have a choice
 tags: [poem]
 ---
 
