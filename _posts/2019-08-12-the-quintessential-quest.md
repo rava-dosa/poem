@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A whore's night
+title: The quintessential quest
 subtitle: 
 tags: [poem]
 ---
