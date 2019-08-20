@@ -4,4 +4,4 @@ title: About me
 subtitle: Who am I ?
 ---
 
-I don't think you need to know the author while reading the poem
+Understand me. I’m not like an ordinary world. I have my madness, I live in another dimension and I do not have time for things that have no soul. –Charles Bukowski
