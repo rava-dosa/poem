@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Old Ways
+title: An impasse
 subtitle: 
 tags: [poem]
 ---
