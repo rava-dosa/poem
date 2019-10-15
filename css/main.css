@@ -5,7 +5,10 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
-
+@font-face {
+  font-family: "GroteskLight";
+  src: url("/poem/css/AmerTypewriterITCbyBT-Medium.ttf") format("truetype");
+}
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
@@ -790,14 +793,6 @@ td.gutter {
   font-family: 'CarbonType' !important;
 }
 
-@-moz-document url-prefix(){
-  .blog-post > p{
-    font-family: 'CarbonType' !important;
-    font-style: normal;
-    word-spacing:-4px;
-    color: #595959;
-  } 
-}
 
 footer{
   background: #F8ECC2;;
