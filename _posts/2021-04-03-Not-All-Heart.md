@@ -5,7 +5,7 @@ subtitle:
 tags: [poem]
 ---
 ## Not all heart 
-![](https://i.imgur.com/cCJSre7.jpg)
+![](https://i.imgur.com/BBDGZ26.png)
 It's a truth,  
 Not all heart,  
 Are made,  
@@ -53,3 +53,6 @@ It's our fight,
 And Not All Heart,  
 Are Made,  
 Are Same.
+
+## BTS
+To a life dedicated to misfitting.
